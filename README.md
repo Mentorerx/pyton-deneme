@@ -1,2 +1,2 @@
 # pyton-deneme
-açıklaması yok  sadece deneme amaçlı
+açıklaması yok  sadece deneme amaçlı yapıldı
