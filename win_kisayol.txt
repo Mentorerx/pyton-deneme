@@ -1,0 +1,219 @@
+F1 = Yardımı görüntüle
+F2 = Seçili dosyayı yeniden adlandır
+F3 = Bir dosyayı ya da dizini arar
+F4 = Dosya Gezgini’nde adres çubuğu listesini gösterir
+F5 = Önde çalışan pencereyi yeniler
+F6 = Bir penceredeki ya da masaüstündeki öğeler arasında geçiş yapar
+F10 = Dosya Gezgini’nde harf kısayollarını gösterir
+ALT + F4 = Önde çalışan programı kapatır
+ALT + ESC = Çalışan programları açılma sıralarına göre öne çıkarır
+ALT + Altı çizili harf = Önde çalışan uygulamada harf kısayollarını gösterir.
+ALT + Enter = Seçili dosyanın özelliklerini gösterir
+ALT + Space = Önde çalışan pencerenin kısayol menüsünü gösterir.
+ALT + Sol ok tuşu = Bir önceki sekmeye geri döner
+ALT + Sağ ok tuşu = Bir sonraki sekmeye geri döner
+ALT + Page Up = Bir sayfa boyu yukarı çıkar
+ALT + Page Down = Bir sayfa boyu aşağı iner
+ALT + TAB = Açık uygulamaları listeler
+CTRL + F4 = Önde çalışan uygulamayı kapatır
+CTRL + A = Önde çalışan sayfadaki tüm öğeleri seçer
+CTRL + C ya da CTRL + Insert = Seçili öğeyi kopyalar
+CTRL + D ya da Delete = Seçili dosyayı Geri Dönüşüm Kutusu’na gönderir
+CTRL + R = Seçili sayfayı yeniler
+CTRL + V ya da Shift + Insert = Kopyalanmış öğeyi yapıştırır
+CTRL + X = Seçili öğeyi keser
+CTRL + Z = Bir işlemi geri alır
+CTRL + Y = Geri alınan işlemi yeniden yapar
+CTRL + artı işareti (+) ya da CTRL + eksi işareti (-) = Çok sayıda dosya incelerken yakınlaştırır ya da uzaklaştırır
+CTRL + Fare kaydırma tuşu = Dosya Gezgini ve masaüstünde bulunan simgelerin boyutunu ayarlar
+CTRL + Sağ ok tuşu = İmleci bir sonraki kelimenin başına taşır
+CTRL + Sol ok tuşu = İmleci bir önceki kelimenin başına taşır
+CTRL + Aşağı ok tuşu = İmleci bir sonraki paragrafın başına taşır
+CTRL + Üst ok tuşu = İmleci bir önceki paragrafın başına taşır
+CTRL + ALT + TAB = Açık uygulama ekranını uygulama seçene kadar açık tutar
+CTRL + Ok tuşları + Space = Bir pencerede ya da masaüstüne birden çok öğe seçer
+CTRL + Shift + Ok tuşları = Bir metinde bulunan bir bloğu seçer
+CTRL + ESC = Başlat ekranını açar
+CTRL + Shift + ESC = Görev Yöneticisi’ni açar
+CTRL + Shift = Klavye düzenini değiştirir (Birden fazla klavye düzeni varsa)
+Shift + F10 = Önce çalışan uygulamanın kısayol menüsünü gösterir
+Shift + Delete = Seçili öğeyi kalıcı olarak siler (Geri Dönüşüm Kutusu'na yollamaz)
+Windows tuşu ile kısayollar:
+windows kısayol tuşları
+
+Windows tuşu = Başlat menüsünü açar ya da kapar
+Windows tuşu + F1 = Yardım Alın sayfasına yönlendirir
+Windows tuşu + B = Gizli simgeler menüsünü seçili hâle getirir
+Windows tuşu + C = Charms sekmesini açar (Windows 10 hariç)
+Windows tuşu + D = Masaüstünü gösterir ya da gizler
+Windows tuşu + E = Dosya Gezgini’ni açar
+Windows tuşu + F = Charms sekmesinde Arama bölümünü açar (Windows 10 hariç)
+Windows tuşu + H = Charms sekmesinde Paylaş bölümünü açar (Windows 10 hariç)
+Windows tuşu + I = Charms sekmesinde Ayarlar bölümünü açar (Windows 10 hariç)
+Windows tuşu + K = Charms sekmesinde Cihazlar bölümünü açar (Windows 10 hariç)
+Windows tuşu + L = Bilgisayarı kilitler ya da kullanıcı değiştirme ekranını açar
+Windows tuşu + M = Tüm pencereleri küçültür
+Windows tuşu + P = Yansıtma seçeneklerini sıralar
+Windows tuşu + R = Çalıştır’ı açar
+Windows tuşu + S = Başlat menüsünün Arama bölümünü açar
+Windows tuşu + T = Görev Çubuğu’ndaki simgeler arasında gezinti sağlar
+Windows tuşu + U = Erişim Kolaylığı Merkezi’ni açar
+Windows tuşu + V = Kopyalama geçmişini açar
+Windows tuşu + W = Kalem’i açar
+Windows tuşu + X = Hızlı Bağlantı menüsünü açar
+Windows tuşu + Z = Bir uyygulamada tam ekran modunda kullanılabilen komutları gösterir
+Windows tuşu + virgül işareti (,) = Basıldığı sürece masaüstünü gösterir
+Windows tuşu + Pause = Sistem özelliklerini gösterir
+Windows tuşu + CTRL + F = Bilgisayar Bul’u açar
+Windows tuşu + Shift + M = Masaüstünde simge durumuna küçültülmüş pencereleri geri yükler
+Windows tuşu + Numara tuşları = Görev Çubuğu’nda bulunan uygulamaları sırasına göre açar
+Windows tuşu + Shift + Sayı tuşları =Görev Çubuğu’nda bulunan uygulamaların yeni bir penceresini açar
+Windows tuşu + CTRL + Sayı tuşları = Görev Çubuğu’nda bulunan uygulamaların son etkin penceresini açar
+Windows tuşu + ALT + Sayı tuşları = Görev Çubuğu’nda bulunan uygulamaların Atlama Listesi’ni açar
+Windows tuşu + CTRL + Shift + Sayı tuşları = Görev Çubuğu’nda bulunan uygulamayı yönetici olarak çalıştırır
+Windows tuşu + B = Son kullanılan uygulamaları listeler
+Windows tuşu + CTRL + TAB = Son kullanılan uygulamalar arasında gezinir
+Windows tuşu + Shift + TAB = Son kullanılan uygulamalar arasında ters istikamette gezinir
+Windows tuşu + CTRL + B = Bildirim gönderen uygulamaya geçer
+Windows tuşu + Yukarı ok tuşu = Önde çalışan pencereyi büyütür
+Windows tuşu + Aşağı ok tuşu = Önde çalışan pencereyi küçültür
+Windows tuşu + Sol ok tuşu = Önde çalışan pencereyi sol tarafta büyütür
+Windows tuşu + Sağ ok tuşu = Önde çalışan pencereyi sağ tarafta büyütür
+Windows tuşu + Home = Aktif olan masaüstü hariç bütün masaüstlerini küçültür
+Windows tuşu + Shift + Yukarı ok tuşu = Masaüstü penceresini ekranın üstüne ve altına uzatır
+Windows tuşu + Shift + Aşağı ok tuşu = Genişliği koruyarak etkin masaüstü pencerelerini önceki boyut ve simge durumuna küçültür
+Windows tuşu + Shift + Sol ok tuşu = Önde çalışan uygulamayı sol taraftaki monitöre taşır
+Windows tuşu + Shift + Sağ ok tuşu = Önde çalışan uygulamayı sağ taraftaki monitöre taşır
+Windows tuşu + Space = Giriş dili ve klavye düzenini değiştirir (Birden fazla varsa)
+Windows tuşu + CTRL + Space = Bir önceki seçili giriş ve klavye düzenine geçer
+Windows tuşu + Enter = Ekran Okuyucusu’nu açar
+Windows tuşu + bölme işareti (/) = IME yeniden dönüşümünü başlatır
+Windows tuşu + CTRL + V = Omuza dokunmaları açar
+Windows tuşu + CTRL + Shift + B = Bilgisayarı boş veya siyah ekrandan uyandırır
+Windows tuşu + artı işareti (+) = Büyüteç’i açar
+Windows tuşu + artı işareti (+) ya da Windows tuşu + eksi işareti (-) = Büyüteç’in yakınlaştırmasını ayarlar
+Windows tuşu + ESC = Büyüteç’i kapatır
+İletişim kutusu için kısayollar:
+windows iletişim kutusu kısayol tuşları
+
+F1 = Yardım’ı açar
+F4 = Aktif listedeki öğeleri gösterir
+CTRL + TAB = Sekmeler arasında ileri gider
+CTRL + Shift + TAB = Sekmeler arasında geri gider
+CTRL + Numara tuşları = Basılan numaralı sekmeye gider
+TAB = Seçenekler arasında ileri gider
+Shift + TAB = Seçenekler arasında geri gider
+ALT + Altı çizili tuş = Önde çalışan iletişim kutusunda harf kısayollarını gösterir
+Space = Aktif olan kutucuğu seçer ya da seçimini kaldırır
+Backspace = “Farklı Kaydet” veya “Aç” iletişim kutusunda seçili olan klasörü bir üst düzeyde açar
+Ok tuşları = Etkin seçenek bir seçenek grubuysa düğmeleri seçer
+Dosya Gezgini kısayolları:
+dosya gezgini kısayol tuşları
+
+ALT + D = Adres çubuğunu seçer
+CTRL + E = Arama kutusunu seçer
+CTRL + F = Arama kutusunu seçer
+CTRL + N = Yeni bir pencere açar
+CTRL + W = Etkin pencereyi kapatır
+CTRL + Fare kaydırma tuşu = Dosya ve klasör simgelerinin boyutunu ve görünümünü değiştirir
+CTRL + Shift + E = Tüm klasörleri seçili klasörün üzerinde görüntüler
+CTRL + Shift + N = Yeni klasör oluşturur
+Num Lock + yıldız işareti (*) = Tüm klasörleri seçili klasörün altında görüntüler
+Num Lock + artı işareti (+) = Seçili klasörün içeriğini görüntüler
+Num Lock + eksi işareti (-) = Seçili klasörü daraltır
+ALT + P = Önizleme panelini görüntüler
+ALT + Enter = Seçili öğenin özellikler kutusunu açar
+ALT + Sağ ok = Sonraki klasörü görüntüler
+ALT+ Yukarı ok = Klasörün içinde bulunduğu klasörü görüntüler
+ALT + Sol ok = Önceki klasörü görüntüler
+Backspace = Önceki klasörü görüntüler
+Sağ ok = Geçerli seçimi gösterir ya da ilk alt klasörü seçer
+Sol ok = Geçerli seçimi daraltır ya da klasörün içinde bulunduğu klasörü gösterir
+End = Etkin pencerenin en altını görüntüler
+Home = Etkin pencerenin en üstünü görüntüler
+F11 = Etkin pencerenin ekranı kaplamasını sağlar ya da etkin pencereyi simge durumuna küçültür
+Görev çubuğu kısayolları:
+görev çubuğu klavye kısayol tuşları
+
+Shift + Bir görev çubuğu düğmesi = Bir uygulamayı açar ya da uygulamanın başka bir örneğini açar
+CTRL + Shift + Bir görev çubuğu düğmesi = Bir uygulamayı yönetici olarak açar
+Shift + Bir görev çubuğu düğmesine sağ tık = Uygulama için pencere menüsünü gösterir
+Shift + Gruplaşmış bir görev çubuğu düğmesine sağ tık = Grup için pencere menüsünü gösterir
+CTRL + Gruplaşmış görev çubuğu düğmesi = Grup pencereleri arasında gezinir
+Erişim Kolaylığı Merkezi kısayolları:
+erişim kolaylığı merkezi
+
+Sağ Shift tuşuna 8 saniye boyunca basılı tutma = Filtre Tuşları’nı açar ya da kapatır
+Sol ALT + Sol Shift + Print Screen = Yüksek Karşıtlık’ı açar ya da kapatır
+Sol ALT + Sol Shift + Num Lock = Fare Tuşları’nı açar ya da kapatır
+Shift’e 5 defa basma = Yapışkan Tuşlar’ı açar ya da kapatır
+Num Lock’a 5 defa basma = Geçiş Tuşları’nı açar ya da kapatır
+Windows tuşu + U = Erişim Kolayllığı Merkezi’ni açar
+Büyüteç kısayolları:
+büyüteç klavye kısayol tuşları
+
+Windows tuşu + artı işareti (+) = Yakınlaştır
+Windows tuşu + eksi işareti (-) = Uzaklaştır
+CTRL + ALT + Space = Masaüstünü tam ekran modunda görüntüler
+CTRL + ALT + I = Renkleri ters çevirir
+CTRL + ALT + L = Mercek görünümüne geçer
+CTRL + ALT + D = Yerleşik görünüme geçirir
+CTRL + ALT + M = Görünümlerde gezinir
+CTRL + ALT + R = Merceği fareyle yeniden boyutlandırır
+Shift + ALT + Ok tuşları = Merceği klavye ile yeniden boyutlandırır
+CTRL + ALT + Boşluk çubuğu = Tam ekran modunda iken hızlı bir şekilde masaüstüne bakar
+Ekran Okuyucusu kısayolları:
+ekran okuyucusu klavye kısayol tuşları
+
+Space + Enter = Seçili öğeyi aktive eder
+TAB + Ok tuşları = Ekranda gezinir
+CTRL = Okumayı durdurur
+Caps Lock + D = Öğeyi okur
+Caps Lock + M = Okumayı başlatır
+Caps Lock + H = Belgeyi okur
+Caps Lock + V = Cümleyi tekrarlar
+Caps Lock + W = Pencereyi okur
+Caps Lock + Page Up + Page Down = Sesin şiddetini artırır ya da azaltır
+Caps Lock + artı işareti (+) ya da eksi işareti (-) = Sesin hızını artırır ya da azaltır
+Caps Lock + Space = Varsayılan işlemi gerçekleştirir
+Caps Lock + Sol veya sağ ok tuşu = Bir önceki ya da sıradaki öğeye ilerler
+Caps Lock + F2 = Seçili öğe için komutları sıralar
+Caps Lock + ESC = Ekran Okuyucusu’nu kapatır
+Uzak Masaüstü Bağlantısı kısayolları:
+uzak masaüstü bağlantısı kısayolları
+
+ALT + Page Up = Uygulamalar arasında soldan sağa gezinir
+ALT + Page Down = Uygulamalar arasında sağdan sola gezinir
+ALT + Insert = Uygulamalar arasında başlangıç sıralarına göre gezinir
+ALT + Home = Başlat ekranını görüntüler
+CTRL + ALT + Brake = Pencere ve tam ekran görünümleri arasında gezinir
+CTRL + ALT + End = Windows Güvenliği iletişim kutusunu görüntüler
+CTRL + ALT + Home = Tam ekran görünümünde bağlantı çubuğunu aktive eder
+ALT + Delete = Sistem menüsünü görüntüler
+CTRL + ALT + eksi işareti (-) = Bağlandığınız bilgisayar üzerinde önde çalışan uygulamanın ekran görüntüsü alır
+CTRL + ALT + artı işareti (+) = Bağlandığınız bilgisayar üzerinde tüm ekranın ekran görüntüsünü alır
+Yardım ve Destek kısayolları:
+yardım ve destek kısayolları
+
+F3 = İmleci arama kutucuğuna taşır
+F10 = Seçenekler menüsünü görüntüer
+Home = Konunun başına döner
+End = Konunun sonuna iner
+ALT + Sol ok tuşu = Bir önceki konuyu görüntüler
+ALT + Sağ ok tuşu = Bir sonraki konuyu görüntüler
+ALT + Home = Yardım ve Destek’in ana sayfasını görüntüler
+ALT + A = Müşteri destek sayfasını görüntüler
+ALT + C = İçerikler Tablosu’nu görüntüler
+ALT + N = Bağlantı Ayarları menüsünü görüntüler
+CTRL + F = Mevcut konuda arama yapar
+CTRL + P = Mevcut konunun çıktısını alır
+Metro Arayüzü’nde uygulama yönetimi kısayolları:
+metro arayüzü klavye kısayol tuşları
+
+Windows tuşu + nokta işareti (.) = Uygulama yönetim modunu açar
+Windows tuşu + Sol ok tuşu = Uygulama bölücüsünü sola götürür
+Windows tuşu + Sağ ok tuşu = Uygulama bölücüsünü sağa götürür
+Windows tuşu + Yukarı ok tuşu = Uygulamaları tam ekran yapar
+Windows tuşu + Aşağı ok tuşu = Uygulamayı kapatır
+Windows tuşu + ESC = Uygulama yönetimi modunu kapatır
+

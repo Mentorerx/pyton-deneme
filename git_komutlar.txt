@@ -1,0 +1,27 @@
+(git --help) git komutlarını gösterir
+
+
+(git config --global user.name  ) isim yazar
+(git config --global user.mail/email)   mail yazar
+(pwd) nerdesin onu gösterir
+(cd ..) bir üst klasöre geçer
+(cd <klasör adı>) o klasöre geçer
+(clear) ekranı temizler
+(mkdir) yeni klasör oluşturur
+(touch) yeni belge oluştur
+(ls) klasör içindeki dosyaları gösterir
+(ls -a) klasör içindekini gösterir
+(git init) git klasörü oluşturur
+(git add <dosya adı>) dosyayı areaya gönderir 
+(git add .) tüm  dosyaları areaya gönderir 
+(git commit --m "yedeğin ismi") yedek alma 
+(git checkout<dosya kodu> -- . > yedeği geri yükler
+(git diff) yapılan değişikliği gösterir
+(git diff <dosya adı> ) o dosyada yapılan değişikliği gösterir
+(rm <dosya adı> ) dosyayı siler
+(rm -r <klasör adı<) klasör siler 
+(git config --global alias.st status  ) komut değiştir
+
+
+
+ 
