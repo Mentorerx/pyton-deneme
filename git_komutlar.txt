@@ -21,7 +21,8 @@
 (rm <dosya adı> ) dosyayı siler
 (rm -r <klasör adı<) klasör siler 
 (git config --global alias.st status  ) komut değiştir
-
-
+( git remote add gitHubRepo https://github.com/Mentorerx/pyton-deneme.git) github a gönderme 
+( git remote) github gitti mi diye kotrol eder
+( git push -u gitHubRepo master) github depoya gönderir
 
  
